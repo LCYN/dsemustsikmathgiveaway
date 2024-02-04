@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">dsemustsik</string>
+    <string name="title">2023 Mathematics Paper 2\n5** Sample Giveaway</string>
+    <string name="start">START</string>
+    <string name="question_num">Question </string>
+    <string name="MC_A">Option A</string>
+    <string name="MC_B">Option B</string>
+    <string name="MC_C">Option C</string>
+    <string name="MC_D">Option D</string>
+    <string name="next">NEXT</string>
+
+</resources>
