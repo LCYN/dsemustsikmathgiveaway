@@ -1,2 +1,2 @@
-Hi 
-download math_giveaway.apk
+Hi\n
+please download math_giveaway.apk
